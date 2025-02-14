@@ -73,9 +73,11 @@ Submit a Pull Request 🛠️
 
 This project is open-source and available under the MIT License. 📜
 
-📞 Contact
+👨‍💻 Developed by rchqai
+📧 Email: rchq.in@icloud.com
+🔗 GitHub: rchqai
 
-📧 Email: support@foodapp.com🌍 Website: FoodApp.com💬 Twitter: @FoodApp
+
 
 🍽️ Bon Appétit! Happy Ordering! 🎉
 
